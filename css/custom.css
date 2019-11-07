@@ -1,0 +1,18 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+h2{
+    color: #077a99;
+}
+p{
+    font-size: 1.7em;
+}
+h3{
+    color: #ff9e11!important;
+}
